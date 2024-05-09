@@ -1,6 +1,6 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
 # NAME:PRASANNA I
-REG NO:212223220079
+# REG NO:212223220079
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
